@@ -2,7 +2,7 @@
 |---|
 # EE7207 - Neural & Fuzzy Systems, Fall 2019 </center>
 
-#### Lecturers: Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EWJCAI) and Prof. [Xing Zhang](https://xinzhangee.wixsite.com/mysite)
+#### Lecturers: Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO) and Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
 
 |#|Content|Lecture Note
 |:---:|:---:|:---:|
