@@ -1,6 +1,6 @@
 |![image](https://github.com/NTU-CCA/EE7207/blob/master/logo.png)|
 |---|
-# EE7207 - Neural & Fuzzy Systems, Fall 2019 </center>
+# EE7207 - Neural & Fuzzy Systems, Fall 2019
 
 #### Lecturers: Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO) and Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
 
