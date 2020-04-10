@@ -12,6 +12,7 @@
 |Lecture - 05|Support Vector Machine|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN5_2019.pdf)]|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO)
 |Lecture - 06|Multilayer Perceptron|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN6_2019.pdf)]|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO)
 |Lecture - 07|Deep Neural Networks|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-NN7_2019.pdf)]|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO)
+|Appendix|Lagrange Multiplier Method|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/Lagrange%20Multiplier%20Method.pdf)]|Prof. [Kezhi Mao](http://research.ntu.edu.sg/expertise/academicprofile/Pages/StaffProfile.aspx?ST_EMAILID=EKZMAO)
 |**Part 2**|
 |Lecture - 01|Fuzzy Set Theory|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-1.pdf)]|Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
 |Lecture - 02|Fuzzy Arithmetic|[[Slide](https://github.com/NTU-CCA/EE7207/blob/master/Slides/EE7207-Part2-2.pdf)]|Prof. [Qing Song](https://www.ntu.edu.sg/home/eqsong/)
