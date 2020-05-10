@@ -18,7 +18,7 @@ Introduction to artificial neural networks. Recurrent and Hopfield Neural Networ
 ### Textbooks:
 
 - S. Haykin, "Neural Networks and Learning Machines, 3rd Edition," <i>Prentice Hall</i>, 2009.
-- G. Feng, "Analysis and Synthesis of Fuzzy Control Systems: A Model-Based Approach," <i>CRC Press Inc<\i>, 2010.
+- G. Feng, "Analysis and Synthesis of Fuzzy Control Systems: A Model-Based Approach," <i>CRC Press Inc</i>, 2010.
 
 ### Lecture Notes:
 
